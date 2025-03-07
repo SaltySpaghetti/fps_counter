@@ -1,6 +1,6 @@
 name: fps_counter
 description: "A simple package to show the current FPS of your Flutter app."
-version: 1.0.0
+version: 1.0.0+1
 repository: https://github.com/SaltySpaghetti/fps_counter
 
 environment:
