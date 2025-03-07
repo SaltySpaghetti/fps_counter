@@ -43,4 +43,4 @@ class _HomePageState extends State<HomePage> {
   );
 }
 ```
-![result image](https://github.com/SaltySpaghetti/fps_counter/blob/main/doc/images/example_result.png)
+![result image](https://raw.githubusercontent.com/SaltySpaghetti/fps_counter/refs/heads/main/doc/images/example_result.png)
