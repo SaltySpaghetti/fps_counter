@@ -18,7 +18,7 @@ _controller.stream.listen((fps) {
     print('FPS: $fps');
 });
 ```
-
+---
 ### FpsCounter Widget
 ```dart
 class HomePage extends StatefulWidget {
@@ -43,4 +43,4 @@ class _HomePageState extends State<HomePage> {
   );
 }
 ```
-![result image](doc/images/example_result.png)
+![result image](https://github.com/SaltySpaghetti/fps_counter/blob/main/doc/images/example_result.png)
